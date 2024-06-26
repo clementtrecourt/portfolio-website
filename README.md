@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio de Clément Trécourt
 
-## Getting Started
+## Développeur Front-End
 
-First, run the development server:
+Bienvenue sur mon portfolio GitHub ! Je suis Clément Trécourt, un développeur front-end passionné par la création d'interfaces web modernes et intuitives.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### À propos de moi
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Je suis spécialisé dans le développement front-end, avec une solide expérience dans la création de sites web responsifs et d'applications web interactives. Mon objectif est de combiner design attrayant et fonctionnalité optimale pour offrir la meilleure expérience utilisateur possible.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Compétences
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- HTML5, CSS3, JavaScript
+- Frameworks front-end (React, Vue.js, etc.)
+- Responsive Web Design
+- Optimisation des performances web
+- Intégration d'API
+- Gestion de version avec Git
 
-## Learn More
+### Projets
 
-To learn more about Next.js, take a look at the following resources:
+Vous trouverez ici une sélection de mes projets les plus récents et les plus pertinents. Chaque projet démontre mes compétences techniques ainsi que ma capacité à résoudre des problèmes complexes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Ici, vous pourriez lister quelques-uns de vos projets avec une brève description]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Contact
 
-## Deploy on Vercel
+N'hésitez pas à me contacter pour discuter de collaborations potentielles ou pour en savoir plus sur mon travail :
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Email : clement.trecourt@gmail.com
+- LinkedIn : [[votre profil LinkedIn]](https://www.linkedin.com/in/clement-trecourt/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Je suis toujours ouvert aux nouvelles opportunités et aux projets passionnants !
